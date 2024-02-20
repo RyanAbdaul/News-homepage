@@ -1,35 +1,29 @@
 # Frontend Mentor | Challenge's name
-This is a solution to the [Challenge's name](Challenge'sURL). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepag]([Challenge'sURL](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 ___
 ## On Desktop's secreen
-<img src=""/>  
+<img src="./readme imgs/desktop.png"/>  
 
 ## On Phone's secreen
-<img src=""/> 
+<img src="./readme imgs/phone.png"/> 
+
+## menu
+<img src="./readme imgs/menu.png"/>
 
 ### Links
 
-- Solution URL: []().
-- Live Site URL: []().
+- Solution URL: [Here](https://github.com/RyanAbdaul/News-homepage)
+- Live Site URL: [Here](https://ryanabdaul.github.io/News-homepage/)..
 
 ## My Process
 ### Built With 
-- 
-- 
-- 
-- 
-### What I learned 
-```The Language
-The code
-```
-### Useful resources
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- Flexbox
+- Grid for the bottom section
+- Using normalize
 ## Author
 If you want to see more, or to know me more "if you want of course <;" You can follow me on the following medias;
 - On Instagram - [@ryan.abdaul](https://www.instagram.com/ryan.abdaul/).
 - On Frontend Mentor - [@Ryan Abdaul](https://www.frontendmentor.io/profile/RyanAbdaul).
-- On YT - []().
 
 **BTW!, my name is Ryan Abdaulaziz but I'd like to be known with Ryan Abduaul that's it i just wanted to say this**.
 
