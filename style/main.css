@@ -153,7 +153,7 @@ header nav .menu:hover span:last-child {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    position: absolute;
+    position: fixed;
     z-index: 100;
     width: 65vw;
     height: 100vh;
